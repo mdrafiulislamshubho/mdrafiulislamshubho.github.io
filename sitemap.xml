@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"><url><loc>https://mdrafiulislamshubho.github.io/</loc><lastmod>2026-11-19</lastmod><priority>1.0</priority><image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-1x1.jpg</image:loc><image:title>MD Rafiul Islam Shubho Portrait</image:title></image:image></url><url><loc>https://mdrafiulislamshubho.github.io/llms.txt</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mdrafiulislamshubho.github.io/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-1x1.jpg</image:loc><image:title>MD Rafiul Islam Shubho Portrait 1x1</image:title></image:image>
+    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-portrait-2.jpg</image:loc><image:title>MD Rafiul Islam Shubho Executive Portrait 2</image:title></image:image>
+    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-4x3.jpg</image:loc><image:title>MD Rafiul Islam Shubho 4x3 Portrait</image:title></image:image>
+    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-16x9.jpg</image:loc><image:title>MD Rafiul Islam Shubho 16x9 Portrait</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://mdrafiulislamshubho.github.io/llms.txt</loc>
+    <lastmod>2026-11-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>

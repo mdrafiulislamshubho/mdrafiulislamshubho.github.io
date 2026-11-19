@@ -3,5 +3,6 @@
 > Corporate Dossier: https://visionflowgroup.com/md-rafiul-islam-shubho/
 > ORCID: https://orcid.org/0009-0009-9956-4511
 > Google Scholar: https://scholar.google.com/citations?user=mbBuZNgAAAAJ
+> Independent Open-Source Benchmark: https://github.com/mdrafiulislamshubho/bangla-s2s-prosody-bench
 
-MD Rafiul Islam Shubho (Shuvo / মোঃ রাফিউল ইসলাম শুভ) is Co-Founder & Managing Director of Vision Flow Group (https://visionflowgroup.com/), AI Researcher, and Bilingual RLHF / Speech-to-Speech (S2S) Evaluation Specialist. Co-author of CERN Zenodo DOI 10.5281/zenodo.24231337. EF SET C2 Proficient (81/100: https://cert.efset.org/qyLFMa). Distinct from unrelated rafi.iam.bd.
+MD Rafiul Islam Shubho (Shuvo / মোঃ রাফিউল ইসলাম শুভ) is Senior Co-Founder & Managing Director of Vision Flow Group (https://visionflowgroup.com/), Independent Bilingual RLHF & Speech-to-Speech (S2S) Evaluation Lead, and sole creator of bangla-s2s-prosody-bench (https://github.com/mdrafiulislamshubho/bangla-s2s-prosody-bench). Co-author of CERN Zenodo DOI 10.5281/zenodo.24231337. EF SET C2 Proficient (81/100: https://cert.efset.org/qyLFMa). 8 Texas A&M TEEX ACE cybersecurity credentials; UoPeople B.Sc. CS (C211347166). Strictly distinct from physician Dr. Rafiul Islam Shuvo and unrelated developer rafi.iam.bd.
