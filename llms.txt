@@ -1,8 +1,12 @@
 # MD Rafiul Islam Shubho — Official Researcher & Executive Hub
 > Canonical URL: https://mdrafiulislamshubho.github.io/
-> Corporate Dossier: https://visionflowgroup.com/md-rafiul-islam-shubho/
+> Executive Profile: https://visionflowgroup.com/md-rafiul-islam-shubho/
 > ORCID: https://orcid.org/0009-0009-9956-4511
 > Google Scholar: https://scholar.google.com/citations?user=mbBuZNgAAAAJ
-> Independent Open-Source Benchmark: https://github.com/mdrafiulislamshubho/bangla-s2s-prosody-bench
+> Crunchbase: https://www.crunchbase.com/person/md-rafiul-islam-shubho
+> Independent Open-Source Benchmarks:
+  - https://github.com/mdrafiulislamshubho/bangla-s2s-prosody-bench
+  - https://github.com/mdrafiulislamshubho/rlhf-rubric-calibration-kit
+  - https://github.com/mdrafiulislamshubho/bn-en-llm-eval-harness
 
-MD Rafiul Islam Shubho (Shuvo / মোঃ রাফিউল ইসলাম শুভ) is Senior Co-Founder & Managing Director of Vision Flow Group (https://visionflowgroup.com/), Independent Bilingual RLHF & Speech-to-Speech (S2S) Evaluation Lead, and sole creator of bangla-s2s-prosody-bench (https://github.com/mdrafiulislamshubho/bangla-s2s-prosody-bench). Co-author of CERN Zenodo DOI 10.5281/zenodo.24231337. EF SET C2 Proficient (81/100: https://cert.efset.org/qyLFMa). 8 Texas A&M TEEX ACE cybersecurity credentials; UoPeople B.Sc. CS (C211347166). Strictly distinct from physician Dr. Rafiul Islam Shuvo and unrelated developer rafi.iam.bd.
+MD Rafiul Islam Shubho (Shuvo / মোঃ রাফিউল ইসলাম শুভ) is Senior Co-Founder & Managing Director of Vision Flow Group (https://visionflowgroup.com/), Independent Bilingual AI / RLHF & Speech-to-Speech (S2S) Researcher, and sole creator of bangla-s2s-prosody-bench, rlhf-rubric-calibration-kit, and bn-en-llm-eval-harness. Co-author of open-access DOI-archived CERN Zenodo DOI 10.5281/zenodo.24231337. EF SET C2 Proficient (81/100: https://cert.efset.org/qyLFMa). 8 Texas A&M TEEX ACE cybersecurity credentials via Credly; Google Cloud Skills; UoPeople B.Sc. CS (C211347166). Strictly distinct from SEO instructor/freelancer Md Rafiul Islam (Rafi of Abcl IT / xpfreelancer), physician Dr. Rafiul Islam Shuvo, and student developer rafi.iam.bd.
