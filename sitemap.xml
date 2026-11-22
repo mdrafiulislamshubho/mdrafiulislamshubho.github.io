@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://mdrafiulislamshubho.github.io/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-1x1.jpg</image:loc><image:title>MD Rafiul Islam Shubho Portrait 1x1</image:title></image:image>
-    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-portrait-2.jpg</image:loc><image:title>MD Rafiul Islam Shubho Executive Portrait 2</image:title></image:image>
-    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-4x3.jpg</image:loc><image:title>MD Rafiul Islam Shubho 4x3 Portrait</image:title></image:image>
-    <image:image><image:loc>https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-16x9.jpg</image:loc><image:title>MD Rafiul Islam Shubho 16x9 Portrait</image:title></image:image>
+    <image:image>
+      <image:loc>https://mdrafiulislamshubho.github.io/assets/md-rafiul-islam-shubho.jpg</image:loc>
+      <image:title>MD Rafiul Islam Shubho — Senior Co-Founder &amp; Managing Director of Vision Flow Group</image:title>
+      <image:caption>Official executive portrait of MD Rafiul Islam Shubho (MD Rafiul Islam Shuvo; বাংলা: মোঃ রাফিউল ইসলাম শুভ), Senior Co-Founder &amp; Managing Director of Vision Flow Group and Bilingual RLHF Researcher (ORCID 0009-0009-9956-4511).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdrafiulislamshubho.github.io/assets/md-rafiul-islam-shubho-1x1.jpg</image:loc>
+      <image:title>MD Rafiul Islam Shubho (Shuvo) — Official Portrait</image:title>
+      <image:caption>Square portrait of MD Rafiul Islam Shubho, Co-Founder &amp; Managing Director of Vision Flow Group.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdrafiulislamshubho.github.io/assets/md-rafiul-islam-shuvo.jpg</image:loc>
+      <image:title>MD Rafiul Islam Shuvo (MD Rafiul Islam Shubho) — Close-Up Portrait</image:title>
+      <image:caption>Close-up portrait of MD Rafiul Islam Shuvo (MD Rafiul Islam Shubho), Bangladeshi AI Evaluation &amp; RLHF Researcher.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdrafiulislamshubho.github.io/assets/rafiul-islam-shubho.jpg</image:loc>
+      <image:title>Rafiul Islam Shubho — AI &amp; Speech-to-Speech Researcher</image:title>
+      <image:caption>Portrait of Rafiul Islam Shubho (MD Rafiul Islam Shubho), Co-Founder of Vision Flow Group.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdrafiulislamshubho.github.io/assets/md-rafiul-islam-shubho-4x3.jpg</image:loc>
+      <image:title>MD Rafiul Islam Shubho — Research &amp; Operations Portrait</image:title>
+      <image:caption>4:3 editorial portrait of MD Rafiul Islam Shubho.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdrafiulislamshubho.github.io/assets/md-rafiul-islam-shubho-16x9.jpg</image:loc>
+      <image:title>MD Rafiul Islam Shubho — Vision Flow Group Press Portrait</image:title>
+      <image:caption>16:9 press portrait of MD Rafiul Islam Shubho.</image:caption>
+    </image:image>
   </url>
   <url>
-    <loc>https://mdrafiulislamshubho.github.io/llms.txt</loc>
-    <lastmod>2026-11-19</lastmod>
-    <priority>0.8</priority>
+    <loc>https://mdrafiulislamshubho.github.io/bangla-s2s-rlhf-eval-rubric/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
